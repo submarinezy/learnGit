@@ -1,1 +1,2 @@
 ﻿this is the first git file, Git is a distribute version control software.
+Git tracks changes.
